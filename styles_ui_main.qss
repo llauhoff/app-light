@@ -1,0 +1,51 @@
+#title_frame {
+    	background-color: rgb(180, 180, 180);	
+    	border-top-left-radius: 10px;
+    	border-top-right-radius: 40px;
+}
+
+
+#title_label {
+    	color: rgb(50, 50, 50);
+    	font: bold 30pt "Dubai";
+}
+
+
+#btn_frame {
+    	background-color: rgb(230, 230, 230);
+    	border-top-right-radius: 10px;
+}
+
+
+#exit_btn {
+    	background-color: rgb(85, 85, 255);
+    	border-radius: 5px;
+}
+#exit_btn:hover:!pressed {
+    background-color: rgb(255, 85, 85);
+}
+
+
+#min_btn {
+    	background-color: rgb(50, 50, 50);
+    	border-radius: 5px;
+}
+#min_btn:hover:!pressed {
+    background-color: rgba(50, 50, 50, 100);
+}
+
+
+#accent_frame {
+    	background-color: rgb(85, 85, 255);
+    	border-top-left-radius: 5px;
+    	border-top-right-radius: 5px;
+}
+
+
+#main_frame {
+    	background-color: rgb(255, 255, 255);
+    	border-top-left-radius: 5px;
+    	border-top-right-radius: 5px;
+    	border-bottom-left-radius: 10px;
+    	border-bottom-right-radius: 10px;
+}
